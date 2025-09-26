@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 bg: green
-color: white
+color: black
 fa-icon: bowl-food
 ---
 
