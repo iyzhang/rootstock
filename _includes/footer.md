@@ -1,8 +1,6 @@
 
 
-Design by Tim O'Brien [t413.com](http://t413.com/)
+Design by [Irene Zhang](https://irenezhang.net/)
 &mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
-&mdash;
-this site is [open source]({{ site.source_link }})
+Based on the [SinglePaged theme](https://github.com/t413/SinglePaged)
 
