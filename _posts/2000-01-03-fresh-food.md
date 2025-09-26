@@ -1,8 +1,8 @@
 ---
-title: "About"
-bg: blue
+title: "Projects"
+bg: green
 color: white
-fa-icon: check-square-o
+fa-icon: bowl-food
 ---
 
 # Fresh Food for the People
