@@ -7,10 +7,11 @@ fa-icon: bowl-food
 
 # Fresh Food for the People
 
-Our first program seeks to both fill the gap created by receding
-funding for low income folks in King county by providing extra produce
-and help local farmers also suffering from the same disappearing
-funding by purchasing local food from the farmers and distributing it
-among low income folks in our community.  We get double the power from
-each dollar by serving low income folks, AND purchasing from
-struggling small farms.
+We deliver weekly bags of fresh local groceries, primarily produce, to
+people in need, doubling the power of each dollar invested: fighting
+food insecurity AND purchasing directly from small producers.
+
+* Give a bag - Donate now to guarantee a weekly bag for a family in need.
+<a href class="button">Donate</a>
+
+* Get a bag - **[Devra will write something here]**

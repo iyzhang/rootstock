@@ -53,7 +53,8 @@ pre {
 /* ----- base elements ----- */
 
 img {
-  max-width:100%!important;
+    max-width:100%!important;
+    border-radius:100%;
   height:auto;
   vertical-align:middle;
 }
