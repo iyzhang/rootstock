@@ -13,5 +13,4 @@ food insecurity AND purchasing directly from small producers.
 
 * Give a bag - Donate now to guarantee a weekly bag for a family in need.
 <a href class="button">Donate</a>
-
 * Get a bag - **[Devra will write something here]**
