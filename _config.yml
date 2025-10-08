@@ -16,8 +16,8 @@ markdown: kramdown
 ### content configuration ###
 title:       "Rootstock Northwest"
 keywords:    "Rootstock nonprofit food"
-description: "A non-profit dedicated to delivering locally supplied food to those that need it in the Pacific Northwest"
-source_link: "https://github.com/iyzhang"
+description: "A non-profit dedicated to delivering locally-produced food to those that need it in the Pacific Northwest"
+source_link: "https://github.com/iyzhang/rootstock"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: 
