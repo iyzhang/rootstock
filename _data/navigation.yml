@@ -1,0 +1,9 @@
+main:
+  - title: "Donate"
+    url: https://secure.lglforms.com/form_engine/s/1SFnqKzfreI-ALNGQxeEHg
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects/
+  - title: "People"
+    url: /people/

@@ -1,37 +1,68 @@
----
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 
-port: 4000
-host: 0.0.0.0
-safe: false
+title: Rootstock Northwest
+email: info@rootstocknw.org
 
+description: A Seattle-based non-profit focusing on feeding people while supporting local producers.
 
-### site serving configuration ###
-exclude: [CNAME, README.md, .gitignore]
-permalink: /:title ## disables post output
-timezone: null
-lsi: false
-markdown: kramdown
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://rootstocknw.org" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: 
+#github_username:  jekyll
 
+# Build settings
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
 
-### content configuration ###
-title:       "Rootstock Northwest"
-keywords:    "Rootstock nonprofit food"
-description: "A non-profit dedicated to delivering locally-produced food to those that need it in the Pacific Northwest"
-source_link: "https://github.com/iyzhang/rootstock"
-favicon:     "img/favicon.ico"
-touch_icon:  "img/apple-touch-icon.png"
-google_analytics_key: 
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
 
+footer:
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/rootstocknw"
 
-### template colors, used site-wide via css ###
-colors:
-  black:     '#111111'
-  white:     '#f8f8f8'
-  blue:      '#98c0c5'
-  green:     '#98b091'
-  red:       '#d78583'
-  orange:    '#ffc89c'
+#minimal_mistakes_skin: dirt
 
-kramdown:
-  auto_ids:  false
+logo: "img/rootstock-icon.png"
+
+include: ["_pages"]
 
