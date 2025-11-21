@@ -5,7 +5,9 @@
 layout: home
 ---
 
-### Locally-sourced food for the community
+![Rootstock logo](/img/rootstock.png){: .w-50 .align-center}
+
+## Locally-sourced food for the community
 
 Rootstock Northwest is a Washington-based non-profit that aims to
 nourish our community by connecting people in need with fresh, locally

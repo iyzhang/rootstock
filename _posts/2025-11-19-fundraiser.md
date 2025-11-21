@@ -1,8 +1,11 @@
 ---
 layout: posts
 title:  "Black Friday Fundraiser!"
-date:   2025-11-19 10:30:34 -0800
+date:   2025-11-19
+related: false
 ---
+
+{% include figure popup=true image_path="/img/local-yokels-xmas.jpg" alt="Local Yokels storefront" %}
 
 Happy Fall Everyone! For Black Friday, we're encouraging everyone to
 celebrate local food chains by coming to our first fundraiser at Local
