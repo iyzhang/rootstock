@@ -13,4 +13,5 @@ Yokels. Meet everyone involved with Rootstock Northwest. We'll be
 handing out cookies and there will be ornament making for the kids.
 
 **When:** Friday November 28, 1-3pm
+
 **Where:** Local Yokels at 8416 5th Ave NE, Seattle, WA 98115

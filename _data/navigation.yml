@@ -1,6 +1,6 @@
 main:
   - title: "Donate"
-    url: https://secure.lglforms.com/form_engine/s/1SFnqKzfreI-ALNGQxeEHg
+    url: /donate/
   - title: "Home"
     url: /
   - title: "Projects"
