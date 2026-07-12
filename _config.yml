@@ -28,6 +28,12 @@ url: "https://rootstocknw.org" # the base hostname & protocol for your site, e.g
 #twitter_username: 
 #github_username:  jekyll
 
+social:
+  type: Organization
+  name: Rootstock Northwest
+  links:
+    - "https://www.instagram.com/rootstocknw/"
+
 # Build settings
 theme: minimal-mistakes-jekyll
 plugins:
@@ -58,7 +64,7 @@ footer:
   links:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/rootstocknw"
+      url: "https://www.instagram.com/rootstocknw/"
 
 #minimal_mistakes_skin: dirt
 

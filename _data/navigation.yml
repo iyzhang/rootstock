@@ -7,3 +7,6 @@ main:
     url: /projects/
   - title: "People"
     url: /people/
+  - title: "Instagram"
+    url: https://www.instagram.com/rootstocknw/
+    target: _blank
